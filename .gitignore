@@ -1,3 +1,5 @@
 .env
 ml_photos/
 private/
+models/
+.DS_Store
